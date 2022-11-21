@@ -1,0 +1,7 @@
+cypress/integration/Smoke_TestSuite/ClientSideTests/Git/GitImport/GitImport_spec.js
+cypress/integration/Smoke_TestSuite/ClientSideTests/Widgets/Multiselect/MultiSelect3_spec.js
+cypress/integration/Smoke_TestSuite/ClientSideTests/Widgets/Widgets_Labels_spec.js
+cypress/integration/Smoke_TestSuite/ClientSideTests/VisualTests/WidgetsLayout_spec.js
+cypress/integration/Smoke_TestSuite/ClientSideTests/Widgets/Button/ButtonGroup_MenuButton_Width_spec.js
+cypress/integration/Smoke_TestSuite/ServerSideTests/OnLoadTests/JSOnLoad1_Spec.ts
+cypress/integration/Smoke_TestSuite/ClientSideTests/VisualTests/DatasourcePageLayout_spec.js
